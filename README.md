@@ -6,8 +6,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b823aba0.gif" width="400">
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername?label=Stars&style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/Mitakashim3?label=Follow&style=social)](https://github.com/Mitakashim3)
+[![GitHub stars](https://img.shields.io/github/stars/Mitakashim3?label=Stars&style=social)](https://github.com/Mitakashim3)
 
 </div>
 
@@ -109,21 +109,21 @@ End-to-end development from database design to user interface, delivering comple
 
 <div align="center">
 
-### 🚀 [Project Name 1](https://github.com/Mitakashim3/Estature)
+### 🚀 [Estature](https://github.com/Mitakashim3/Estature)
 `React` `TypeScript` `Node.js` `MongoDB`
 
 Brief description of your amazing project and what it does.
 
 ---
 
-### 🎯 [Project Name 2](https://github.com/Mitakashim3/Polycon)
+### 🎯 [Polycon](https://github.com/Mitakashim3/Polycon)
 `Python` `Flask` `PostgreSQL` `Docker` `React` `Javascript`
 
 Brief description of another great project you've built.
 
 ---
 
-### 🎮 [Game Project](https://github.com/yourusername/gameproject)
+### 🎮 [Game Development](https://github.com/yourusername/gameproject)
 `C#` `Unity` `Game Development`
 
 Description of your awesome game project.
@@ -131,14 +131,6 @@ Description of your awesome game project.
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://github.com/Mitakashim3/Mitakashim3/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
