@@ -1,4 +1,4 @@
-# 👨‍💻 Hi there, I'm [Your Name]! 
+# 👨‍💻 Hi there, I'm [Clark Jim A. Gabiota]! 
 
 <div align="center">
   
@@ -17,9 +17,9 @@
 
 ```typescript
 const developer = {
-    name: "Your Name",
+    name: "Clark Jim Gabiota",
     role: "Full-Stack Developer",
-    location: "Your Location",
+    location: "Bacolod City, Negros Occidental",
     experience: "3+ years",
     currentFocus: "Building scalable web applications and engaging games",
     passions: ["Clean Code", "Innovation", "Problem Solving", "Continuous Learning"],
