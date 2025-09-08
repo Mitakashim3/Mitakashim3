@@ -72,7 +72,7 @@ I'm a passionate developer who loves creating innovative solutions and bringing 
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mitakashim3&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -109,15 +109,15 @@ End-to-end development from database design to user interface, delivering comple
 
 <div align="center">
 
-### 🚀 [Project Name 1](https://github.com/yourusername/project1)
+### 🚀 [Project Name 1](https://github.com/Mitakashim3/Estature)
 `React` `TypeScript` `Node.js` `MongoDB`
 
 Brief description of your amazing project and what it does.
 
 ---
 
-### 🎯 [Project Name 2](https://github.com/yourusername/project2)
-`Python` `Django` `PostgreSQL` `Docker`
+### 🎯 [Project Name 2](https://github.com/Mitakashim3/Polycon)
+`Python` `Flask` `PostgreSQL` `Docker` `React` `Javascript`
 
 Brief description of another great project you've built.
 
@@ -136,7 +136,7 @@ Description of your awesome game project.
 
 <div align="center">
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mitakashim3/Mitakashim3/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -174,7 +174,7 @@ Description of your awesome game project.
 
 **Thank you for visiting my profile! Let's build something amazing together! 🚀**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Mitakashim3&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
 
