@@ -1,9 +1,11 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Clark+Jim+Gabiota;Full-Stack+Developer;AI+Integration+Specialist;Building+with+Next.js,+Rust,+and+Go" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Clark+Jim+Gabiota;Full-Stack+Developer;Building+Offline-First+Systems;Crafting+AI+Solutions" alt="Typing SVG" />
+  </a>
 
   <p align="center">
-     <b> 🚀 Computer Science Student @ STI-West Negros University | Bacolod City, PH </b>
+    <img src="https://komarev.com/ghpvc/?username=Mitakashim3&label=Profile%20Views&color=blue&style=flat" alt="mitakashim3" />
   </p>
 
   <p align="center">
@@ -18,14 +20,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me & My Code
 
-I am a **Full-Stack Developer** passionate about bridging the gap between advanced systems architecture and intuitive user experiences. My work ranges from **Offline-First** desktop applications to secure **SaaS** platforms. [cite_start]I build software with *"Pagpalangga"* (care)—ensuring code is not only functional but resilient and secure[cite: 846, 855].
+I am a **Full-Stack Developer** passionate about bridging the gap between advanced systems architecture and intuitive user experiences. My work ranges from **Offline-First** desktop applications to secure **SaaS** platforms. I build software with *"Pagpalangga"* (care)—ensuring code is not only functional but resilient and secure.
 
 - 🔭 I’m currently working on **Estature** (Real-estate AI) and **Insta-Resibo**.
 - 🌱 I’m currently learning **Advanced Rust Microservices** and **3D Web Implementation**.
-- 💡 I specialize in **RAG Architecture**, **Offline-First Systems**, and **Next.js 16**.
-- [cite_start]⚡ Fun fact: I started in tech annotating LiDAR data for AI models[cite: 868].
+- ⚡ **Fun Fact:** I started in tech annotating LiDAR data for AI models.
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
 
 ---
 
@@ -44,13 +49,20 @@ I am a **Full-Stack Developer** passionate about bridging the gap between advanc
 
 ---
 
+### 🐍 My Contributions (The Snake Game)
+
+<div align="center">
+  <img src="https://github.com/Mitakashim3/Mitakashim3/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ### 🚀 Featured Projects
 
 | **Resibilis** 🧾 | **Kalag** 👻 |
 | :--- | :--- |
 | **A Secure SaaS Receipt Generator** | **AI-Powered RAG Knowledge Base** |
 | Built for Filipino freelancers using **Next.js 16** and **Supabase**. Features "Live Preview," disposal email blocking, and Row Level Security. | A modern document analysis tool using **Gemini Vision** and **Qdrant**. Extracts tables, analyzes charts, and provides visual citations. |
-[cite_start]| [cite: 52, 86, 89] [cite_start]| [cite: 540, 556, 587] |
 | `TypeScript` `Next.js` `Supabase` | `Python` `FastAPI` `React` `RAG` |
 | [**Visit App**](https://resibilis.vercel.app/) | [**Visit App**](https://kalag.vercel.app/) |
 
@@ -58,7 +70,6 @@ I am a **Full-Stack Developer** passionate about bridging the gap between advanc
 | :--- | :--- |
 | **Offline-First Retail System** | **AI Consultation Platform** |
 | A hybrid desktop POS engineered for zero-latency. Uses **Tauri (Rust)** for hardware/local storage and **Go (Gin)** for cloud syncing. | Cross-platform system with an AI "Minutes Recorder." Uses **AssemblyAI** and **WebSockets** for real-time transcription. |
-[cite_start]| [cite: 34, 35, 36] [cite_start]| [cite: 872, 876] |
 | `Rust` `Tauri` `Go` `SQLite` | `Flask` `React` `AssemblyAI` |
 | [**View Code**](https://github.com/Mitakashim3/MItakashime-POS) | [**View Code**](https://polycon-frontend.onrender.com/) |
 
@@ -67,18 +78,15 @@ I am a **Full-Stack Developer** passionate about bridging the gap between advanc
 ### 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mitakashim3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Mitakashim3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitakashim3&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitakashim3&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
-</div>
-
----
 
 <div align="center">
-  <p>Let's build something incredible.</p>
   <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
