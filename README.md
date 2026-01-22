@@ -78,7 +78,7 @@ I am a **Full-Stack Developer** passionate about bridging the gap between advanc
 | **End-to-End Content Pipeline** | **Automated English Speech Coach** |
 | A "Zero-Touch" distributed automation system. Orchestrates **Gumloop** for cloud-based research & scripting, synced to a local **Python** engine for GPU-accelerated rendering and **YouTube Data API** uploads. | A voice-to-logic automation for language learning. Orchestrates **n8n (Docker)** to fetch daily topics from **Google Sheets**, grades speech via **Groq (LPU)**, and logs performance history. |
 | `Python` `MoviePy` `Gumloop` `Google Sheets` | `Python` `n8n` `Docker` `Groq AI` |
-| [**View Code**](https://github.com/Mitakashim3/Reels-Automation) | [**View Code**](https://github.com/Mitakashim3/EchoFlow-AI) |
+| [**View Code**](https://github.com/Mitakashim3/Reels-Automation) | [**View Code**](https://github.com/Mitakashim3/EchoFlow) |
 
 ---
 
