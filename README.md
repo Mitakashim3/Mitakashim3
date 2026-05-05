@@ -4,7 +4,10 @@
 <!-- ║   COSMIC HEADER — matches portfolio's dark space theme   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14141a,50:1a1a2e,100:16213e&height=220&section=header&text=Mitakashime&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E4%BB%8A%E6%97%A5%E3%81%AF%20%E2%80%94%20Full-Stack%20Developer%20%26%20AI%20Builder&descAlignY=58&descSize=16" width="100%" alt="header" />
+# &nbsp;
+# `✦  Mitakashime  ✦`
+
+### 今日は &nbsp;·&nbsp; *Full-Stack Developer & AI Builder*
 
 <a href="https://mitakashime.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=Hi+There!+I'm+Clark+Jim+Gabiota+%F0%9F%91%8B;Building+Offline-First+Systems+%E2%9A%A1;Crafting+AI%2FRAG+Architectures+%F0%9F%A4%96;Catch+the+shooting+star+%E2%98%84%EF%B8%8F" alt="typing" />
@@ -44,15 +47,7 @@ const clark = {
 };
 ```
 
-<div align="center">
-
-```
-✦  ·   .         ·     ✧       .    ·     ✦  
-   ·    ✦   ·    ✶   .    Catch the shooting star.    ·   ✧
-✧    .      ·   ✦      ·       .    ✦      ·    ·   ✶
-```
-
-</div>
+<br/>
 
 ---
 
@@ -295,12 +290,8 @@ Zero-touch distributed automation. **Gumloop** orchestrates research + scripting
 
 <br/><br/>
 
-```
-        ✦   ·    .    ✧    ·    ✦   .    ✶    ·    ✧
-   ·   Thanks for stopping by — safe travels, kapamilya.   ·
-        ✶    ·    ✦   .   ✧   ·   ✦    .   ·   ✶
-```
+***
+
+<sub>*Built with Pagpalangga · Bacolod, PH 🇵🇭*</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:14141a&height=120&section=footer" width="100%" alt="footer" />
